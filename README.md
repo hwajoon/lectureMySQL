@@ -1,3 +1,3 @@
 # lectureMySQL
 
-MySQL의 문법을 익힙니다.
+- https://www.mysql.com/products/workbench/ 여기서 GUI 다운로드
