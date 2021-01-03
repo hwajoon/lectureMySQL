@@ -1,4 +1,4 @@
-# CREATE, DROP, USE, SHOW, DESC, INERT INTO, SELECT
+# CREATE, DROP, USE, SHOW, DESC, INERT INTO a () VALUES(), SELECT * FROM a
 
 # mysql -uroot -p     // _u:user / root:사용자 ID    /  -p:password#
 # CREATE DATABASE opentutorials;    # 데이터베이스 생성
